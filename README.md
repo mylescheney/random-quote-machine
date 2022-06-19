@@ -1,0 +1,1 @@
+This project is part of the freeCodeCamp cirriculum. The point is to practice using React and other libraries to design and make a functional app that generates a new quote when prompted by the user. The website's style also changes with user interaction.
